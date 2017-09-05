@@ -19,3 +19,12 @@ font-weight: bold;
    margin:40px;
    box-shadow: 0px 0px 2px 1px black;
 }
+
+#answer{
+float: right;
+width:500px;
+ height:100px;
+ margin:40px;
+ box-shadow: 0px 0px 2px 1px black;
+
+}
